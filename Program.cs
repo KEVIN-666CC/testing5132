@@ -6,7 +6,7 @@ namespace homework_1st
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("你好！我是姚德勇");
+            Console.WriteLine("你好！我是姚德勇");//update
             Console.ReadLine();//hello world
         }
     }
