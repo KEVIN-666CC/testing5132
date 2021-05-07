@@ -7,7 +7,7 @@ namespace homework_1st
         static void Main(string[] args)
         {
             Console.WriteLine("你好！我是姚德勇");
-            Console.ReadLine();
+            Console.ReadLine();//hello world
         }
     }
 }
